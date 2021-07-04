@@ -8,7 +8,7 @@ body{
     .orange{
         color: orange;
     }
-    section{
+    .flex-container{
         display: flex;
         margin-bottom: 150px;
     }
